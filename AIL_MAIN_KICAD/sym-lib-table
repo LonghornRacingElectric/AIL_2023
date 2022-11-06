@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "CMMR1U-08_TR_PBFREE")(type "Legacy")(uri "C:/PCB Downloads/CMMR1U-08_TR_PBFREE.lib")(options "")(descr ""))
+  (lib (name "CMDSH2-3_TR_PBFREE")(type "Legacy")(uri "C:/PCB Downloads/CMDSH2-3_TR_PBFREE.lib")(options "")(descr ""))
+  (lib (name "SMBJ5350B-TP")(type "Legacy")(uri "C:/PCB Downloads/SMBJ5350B-TP.lib")(options "")(descr ""))
+  (lib (name "APT2012SECK_J3-PRV")(type "Legacy")(uri "C:/PCB Downloads/APT2012SECK_J3-PRV.lib")(options "")(descr ""))
+  (lib (name "215760-1002")(type "Legacy")(uri "C:/PCB Downloads/LIB_215760-1002/215760-1002/KiCad/215760-1002.lib")(options "")(descr ""))
+)

@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SMBJ5350B-TP
+#/551600/975734/2.49/2/4/Zener Diode
+DEF SMBJ5350B-TP Z 0 30 Y Y 1 F N
+F0 "Z" 400 350 50 H V L CNN
+F1 "SMBJ5350B-TP" 400 250 50 H V L CNN
+F2 "DIOM5336X261N" 400 150 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/a60ad652ec0afa86ef037664c8e865a3.pdf" 400 50 50 H I L CNN
+F4 "Zener Diode 13V 5W +/-5% Surface Mount DO-214AA (SMB)" 400 -50 50 H I L CNN "Description"
+F5 "2.61" 400 -150 50 H I L CNN "Height"
+F6 "833-SMBJ5350B-TP" 400 -250 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Micro-Commercial-Components-MCC/SMBJ5350B-TP?qs=ZNK0BnemlqFnl95cTboLBQ%3D%3D" 400 -350 50 H I L CNN "Mouser Price/Stock"
+F8 "Micro Commercial Components (MCC)" 400 -450 50 H I L CNN "Manufacturer_Name"
+F9 "SMBJ5350B-TP" 400 -550 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 600 0 100 L 50 50 0 0 P
+P 2 0 1 6 200 80 200 -80 N
+P 2 0 1 6 200 80 240 100 N
+P 2 0 1 6 160 -100 200 -80 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 500 0 400 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP LT8315
+D 560VIN Micropower No-Opto Isolated Flyback Converter with 630V/300mA Switch
+K
+F http://cds.linear.com/docs/en/datasheet/8315f.pdf
+$ENDCMP
+#
+#End Doc Library
