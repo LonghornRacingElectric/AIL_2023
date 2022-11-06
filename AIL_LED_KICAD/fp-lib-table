@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Connector 215760-1002")(type "KiCad")(uri "C:/PCB Downloads/LIB_215760-1002/215760-1002/KiCad")(options "")(descr ""))
+  (lib (name "LED APT2012SECK_J3-PRV")(type "KiCad")(uri "C:/PCB Downloads/LIB_APT2012SECK_J3-PRV/APT2012SECK_J3-PRV/KiCad")(options "")(descr ""))
+)
