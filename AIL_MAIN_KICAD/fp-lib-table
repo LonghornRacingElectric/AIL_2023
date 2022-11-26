@@ -142,4 +142,5 @@
   (lib (name "APT2012SECK_J3-PRV")(type "KiCad")(uri "C:/PCB Downloads/LIB_APT2012SECK_J3-PRV/APT2012SECK_J3-PRV/KiCad")(options "")(descr ""))
   (lib (name "2155760-1002")(type "KiCad")(uri "C:/PCB Downloads/LIB_215760-1002/215760-1002/KiCad")(options "")(descr ""))
   (lib (name "C3D02060F")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/LIB_C3D02060F/C3D02060F/KiCad")(options "")(descr ""))
+  (lib (name "AIL_MAIN_FOOT")(type "KiCad")(uri "${KIPRJMOD}/AIL_MAIN_FOOT")(options "")(descr ""))
 )
