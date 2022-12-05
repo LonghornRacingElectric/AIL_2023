@@ -352,7 +352,6 @@
     )
   )
 
-
   (junction (at 120.015 70.485) (diameter 0) (color 0 0 0 0)
     (uuid 0e0f9829-27a5-43b2-a0ae-121d3ce72ef4)
   )
@@ -885,7 +884,7 @@
     (property "Value" "Conn_01x02_Female" (id 1) (at 135.89 48.8949 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector 215760-1002:215760-YY02" (id 2) (at 133.985 46.355 0)
+    (property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal" (id 2) (at 133.985 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 133.985 46.355 0)
@@ -1405,7 +1404,7 @@
       (reference "#PWR0103") (unit 1) (value "+12V") (footprint "")
     )
     (path "/6f1beb86-67e1-46bf-8c2b-6d1e1485d5c0"
-      (reference "J1") (unit 1) (value "Conn_01x02_Female") (footprint "Connector 215760-1002:215760-YY02")
+      (reference "J1") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_Molex:Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal")
     )
     (path "/facb0614-068b-4c9c-a466-d374df96a94c"
       (reference "LED1") (unit 1) (value "APT2012SECK_J3-PRV") (footprint "LED APT2012SECK_J3-PRV:APT2012SECKJ3PRV")
