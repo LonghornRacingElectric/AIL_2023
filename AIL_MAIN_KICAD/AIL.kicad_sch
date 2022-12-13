@@ -1913,7 +1913,7 @@
     (uuid 6bdc0143-16b9-45a2-a52e-5ce15234cedb)
     (property "Reference" "R5" (id 0) (at 214.63 50.8 90))
     (property "Value" "330E-3" (id 1) (at 214.63 53.34 90))
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (id 2) (at 214.63 58.928 90)
+    (property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder" (id 2) (at 214.63 58.928 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 214.63 57.15 0)
@@ -2464,7 +2464,7 @@
     (uuid d847424d-7019-4df8-b961-1dd2d9facb89)
     (property "Reference" "R2" (id 0) (at 158.75 53.34 90))
     (property "Value" "10E3" (id 1) (at 158.75 55.88 90))
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (id 2) (at 158.75 61.468 90)
+    (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (id 2) (at 158.75 61.468 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 158.75 59.69 0)
@@ -2824,7 +2824,7 @@
       (reference "R1") (unit 1) (value "11E3") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/d847424d-7019-4df8-b961-1dd2d9facb89"
-      (reference "R2") (unit 1) (value "10E3") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R2") (unit 1) (value "10E3") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/d5378109-6930-4bd2-ae9f-bf458fc3e1c0"
       (reference "R3") (unit 1) (value "1.24E3") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
@@ -2833,7 +2833,7 @@
       (reference "R4") (unit 1) (value "22.1E3") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/6bdc0143-16b9-45a2-a52e-5ce15234cedb"
-      (reference "R5") (unit 1) (value "330E-3") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R5") (unit 1) (value "330E-3") (footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder")
     )
     (path "/cddabd06-13bb-40e1-be82-10f94faf40c6"
       (reference "R6") (unit 1) (value "1.87E6") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
